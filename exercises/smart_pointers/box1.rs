@@ -35,11 +35,15 @@ fn main() {
 }
 
 pub fn create_empty_list() -> List {
-    todo!()
+    
+
+    //todo!()
 }
 
 pub fn create_non_empty_list() -> List {
-    todo!()
+    //todo!()
+
+
 }
 
 #[cfg(test)]
